@@ -35,4 +35,5 @@ Create your own branch and work on it. You can achieve the same using the comman
 This will create a new branch and any update you make will be made on this branch. 
 Push into the repository once you are done with your work. 
 
-Kindly text me personally if you think you require any additional resources to complete the tasks. I'll be glad to help out in any way possible. 
+Kindly email me if you require any additional resources or assistance to complete the tasks. I'll be glad to help out in any way possible. 
+My email id: anand.19bce7532@vitap.ac.in
