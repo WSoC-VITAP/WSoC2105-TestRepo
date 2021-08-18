@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
+
+#outputField{
+    border: none ;
+    padding: 0.25em;
+    background-color:  black;
+    color: white;
+    height: 30px;
+}
+
+.inputButtons{
+    margin : 0.1rem;
+    max-width: 90%;
+}
+
+.rowField{
+    display: flex;
+    justify-content: ;
+}
+
+.btn-small
+{
+    transition-duration: 0.2s;
+    margin: 0.2rem;
+    background-color: #afafaf;
+    color: black;
+    display:block;
+    border-color: black;
+    height: 39px;
+    border-radius: 50%;
+}
+
+.btn-large{
+    transition-duration: 0.4s;
+    margin: 0.2rem;
+    background-color: #afafaf;
+    color: black;
+    border: none ;
+    border-radius: 10em;
+    height: 35px;
+}
+
+.btn-small:hover,
+.btn-large:hover{
+    background-color: #eeb720;
+    color: white;
+}
+
+.btn-small{
+    width : 30%
+}
+
+.btn-medium{
+    width : 100%
+}
+
+.btn-large{
+    width:100%
+}
